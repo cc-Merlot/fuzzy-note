@@ -1,0 +1,9 @@
+node_modules/
+unpackage/
+CLAUDE.md
+project.private.config.json
+.hbuilderx/
+
+# uni-id 真实配置（包含 appsecret 等敏感字段，已用 config.example.json 替代）
+uni_modules/uni-config-center/uniCloud/cloudfunctions/common/uni-config-center/uni-id/config.json
+

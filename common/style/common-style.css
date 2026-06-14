@@ -1,0 +1,18 @@
+view,
+scroll-view,
+navigator {
+  box-sizing: border-box;
+}
+
+/* 底部安全区域 */
+.safe-area-box {
+  width: 100%;
+  height: env(safe-area-inset-bottom);
+}
+
+.backgound {
+  /* 顶部浅黄→底部暖黄的渐变（贴合原图色调） */
+  background: linear-gradient(180deg, #FFDBA9 0%, #FFF9E6 100%);
+  min-height: 100vh;
+  font-family: "微软雅黑", "PingFang SC", sans-serif;
+}
