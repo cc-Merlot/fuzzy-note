@@ -47,6 +47,12 @@
 
 <img alt="登录" src="docs/screenshots/Snipaste_2025-12-20_17-16-29.png" width="240"/>
 
+## 📱 线上体验
+
+扫描下方二维码或访问在线版本：
+
+<img alt="线上体验" src="docs/线上体验.png" width="400"/>
+
 ## 🚀 功能特性
 
 ### 已实现
