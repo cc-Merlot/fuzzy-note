@@ -5,7 +5,6 @@
 [![Vue](https://img.shields.io/badge/Vue-3.x-42b883)](https://vuejs.org)
 [![uni-app](https://img.shields.io/badge/uni--app-latest-2b9939)](https://uniapp.dcloud.net.cn)
 [![uniCloud](https://img.shields.io/badge/uniCloud-aliyun-ff6900)](https://unicloud.dcloud.net.cn)
-[![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
 ---
 
@@ -24,31 +23,31 @@
 
 首页
 
-![nipaste_2025-12-17_20-08-0](docs\screenshots\Snipaste_2025-12-17_20-08-03.png)
+![首页](docs/screenshots/Snipaste_2025-12-17_20-08-03.png)
 
 记录页
 
-![nipaste_2025-12-17_20-08-3](docs\screenshots\Snipaste_2025-12-17_20-08-34.png)
+![清单](docs/screenshots/Snipaste_2025-12-17_20-08-34.png)
 
-![nipaste_2025-12-17_20-09-1](docs\screenshots\Snipaste_2025-12-17_20-09-18.png)
+![记录](docs/screenshots/Snipaste_2025-12-17_20-09-18.png)
 
 统计页
 
-![nipaste_2025-12-17_20-09-4](docs\screenshots\Snipaste_2025-12-17_20-09-40.png)
+![统计图](docs/screenshots/Snipaste_2025-12-17_20-09-40.png)
 
-![nipaste_2025-12-17_20-09-5](docs\screenshots\Snipaste_2025-12-17_20-09-57.png)
+![记事本](docs/screenshots/Snipaste_2025-12-17_20-09-57.png)
 
 个人中心页
 
-![nipaste_2025-12-17_20-10-0](docs\screenshots\Snipaste_2025-12-17_20-10-07.png)
+![个人中心](docs/screenshots/Snipaste_2025-12-17_20-10-07.png)
 
 科普文章页
 
-![nipaste_2025-12-17_20-10-1](docs\screenshots\Snipaste_2025-12-17_20-10-17.png)
+![科普文章](docs/screenshots/Snipaste_2025-12-17_20-10-17.png)
 
 登录页
 
-![nipaste_2025-12-20_17-16-2](D:\study\uniCloud\project\毛茸茸日报\docs\screenshots\Snipaste_2025-12-20_17-16-29.png)
+![登录](docs/screenshots/Snipaste_2025-12-20_17-16-29.png)
 
 ## 🚀 功能特性
 
@@ -162,8 +161,8 @@
 ### 1. 克隆并安装依赖
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+https://github.com/cc-Merlot/fuzzy-note
+cd fuzzy-note
 pnpm install
 ```
 
