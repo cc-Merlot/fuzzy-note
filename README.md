@@ -21,33 +21,31 @@
 
 ## 📸 项目展示
 
-首页
+**首页**
 
-![首页](docs/screenshots/Snipaste_2025-12-17_20-08-03.png)
+<img alt="首页" src="docs/screenshots/Snipaste_2025-12-17_20-08-03.png" width="240"/>
 
-记录页
+**记录页**
 
-![清单](docs/screenshots/Snipaste_2025-12-17_20-08-34.png)
+<img alt="任务清单" src="docs/screenshots/Snipaste_2025-12-17_20-08-34.png" width="240"/>
+<img alt="日常记录" src="docs/screenshots/Snipaste_2025-12-17_20-09-18.png" width="240"/>
 
-![记录](docs/screenshots/Snipaste_2025-12-17_20-09-18.png)
+**统计页**
 
-统计页
+<img alt="健康趋势" src="docs/screenshots/Snipaste_2025-12-17_20-09-40.png" width="240"/>
+<img alt="记事本" src="docs/screenshots/Snipaste_2025-12-17_20-09-57.png" width="240"/>
 
-![统计图](docs/screenshots/Snipaste_2025-12-17_20-09-40.png)
+**个人中心页**
 
-![记事本](docs/screenshots/Snipaste_2025-12-17_20-09-57.png)
+<img alt="个人中心" src="docs/screenshots/Snipaste_2025-12-17_20-10-07.png" width="240"/>
 
-个人中心页
+**科普文章页**
 
-![个人中心](docs/screenshots/Snipaste_2025-12-17_20-10-07.png)
+<img alt="科普文章" src="docs/screenshots/Snipaste_2025-12-17_20-10-17.png" width="240"/>
 
-科普文章页
+**登录页**
 
-![科普文章](docs/screenshots/Snipaste_2025-12-17_20-10-17.png)
-
-登录页
-
-![登录](docs/screenshots/Snipaste_2025-12-20_17-16-29.png)
+<img alt="登录" src="docs/screenshots/Snipaste_2025-12-20_17-16-29.png" width="240"/>
 
 ## 🚀 功能特性
 
